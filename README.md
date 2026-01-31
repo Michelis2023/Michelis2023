@@ -18,9 +18,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Στατιστικά
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9&icon_color=8B0000)
+
+</div>
 
 ---
 
@@ -34,8 +38,8 @@
 
 ## 📧 Επικοινωνία
 
-[![Website](https://img.shields.io/badge/Website-michelis2023.github.io-darkred?style=flat-square)](https://michelis2023.github.io/short-stories/)
-[![Email](https://img.shields.io/badge/Email-michalakopoulosmichael@gmail.com-8B0000?style=flat-square)](mailto:michalakopoulosmichael@gmail.com)
+[![Website](https://img.shields.io/badge/Website-michelis2023.github.io-8B0000?style=flat-square&logo=github&logoColor=white)](https://michelis2023.github.io/short-stories/)
+[![Email](https://img.shields.io/badge/Email-michalakopoulosmichael@gmail.com-8B0000?style=flat-square&logo=gmail&logoColor=white)](mailto:michalakopoulosmichael@gmail.com)
 
 ---
 
