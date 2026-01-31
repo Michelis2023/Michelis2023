@@ -13,8 +13,8 @@
 
 | Τίτλος | Περιγραφή | Διαβάστε |
 |--------|-----------|----------|
-| **Το Σπίτι στη Σιωπή** | Γοτθικό διήγημα αιώνιας επιστροφής | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-spiti-sti-siopi.html) |
-| **Η Κληρονομιά του Φόβου** | Νουβέλα οικογενειακού τρόμου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/i-klironomia-tou-fovou.html) |
+| **Τα Σμυρδάκια** | Γοτθικό διήγημα παραδοσιακής τρομοκρατίας | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
+| **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
 
 ---
 
