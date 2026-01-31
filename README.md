@@ -1,4 +1,4 @@
-# ❤️ Μιχαήλ Σ. Μιχαλακόπουλος
+    # ❤️ Μιχαήλ Σ. Μιχαλακόπουλος
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC%201.0%20Universal-blue?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Language: Greek](https://img.shields.io/badge/Language-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org)
@@ -13,7 +13,7 @@
 
 | Τίτλος | Περιγραφή | Διαβάστε |
 |--------|-----------|----------|
-| **Τα Σμυρδάκια** | Γοτθικό διήγημα παραδοσιακής τρομοκρατίας | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/ta-|||smyrdakia.html) || 
+| **Τα Σμυρδάκια** | Γοτθικό διήγημα παραδοσιακής τρομοκρατίας | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/ta-|||smyrdakia.html) | 
 | **Το Χέρι Κάτω από το Χώμα*** | Ιστορία υπερφυσικού φόβου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
 
 ---
