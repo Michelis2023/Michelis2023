@@ -18,11 +18,13 @@
 
 ---
 
-## 📊 Στατιστικά
+## 📊 Δραστηριότητα
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9&icon_color=8B0000)
+![Contributions](https://img.shields.io/badge/Contributions-22_commits-8B0000?style=for-the-badge&logo=github&logoColor=white)
+![Stories](https://img.shields.io/badge/Διηγήματα-2-darkred?style=for-the-badge&logo=book&logoColor=white)
+![Year](https://img.shields.io/badge/Active-2026-success?style=for-the-badge&logo=calendar&logoColor=white)
 
 </div>
 
