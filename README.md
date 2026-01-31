@@ -37,7 +37,7 @@
 
 ## 📧 Επικοινωνία
 
-**Email**: michalis.michalakopoulos@gmail.com  
+**Email**: michalakopoulosmichael@gmail.com  
 **GitHub**: [@Michelis2023](https://github.com/Michelis2023)  
 
 ---
