@@ -5,7 +5,7 @@
 [![Genre: Literary Fiction](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction)
 ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=PROFILE%20VIEWS)
 
-> *Συγγραφέας Γοθικών Διηγημάτων | Ελληνική Λαογραφία & Παράδοση*
+> *Συγγραφέας Γοτθικών Διηγημάτων | Ελληνική Λαογραφία & Παράδοση*
 
 ---
 
