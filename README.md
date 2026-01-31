@@ -35,3 +35,7 @@ michalakopoulosmichael@gmail.com
 <div align="center">
 <i>Γοτθική Λογοτεχνία • Ελληνική Παράδοση</i>
 </div>
+
+## 📊 Στατιστικά
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=8b0000&icon_color=8b0000)
