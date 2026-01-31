@@ -11,10 +11,10 @@
 
 ## 📚 Διηγήματα
 
-| Τίτλος | Περιγραφή |
-|--------|----------|
-| **Τα Σμυρδάκια** | Γοσθικό διήγημα παραδοσιακής τρομοκρατίας |
-| **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου |
+| Τίτλος | Περιγραφή | Διαβάστε |
+|--------|-----------|----------|
+| **Τα Σμυρδάκια** | Γοσθικό διήγημα παραδοσιακής τρομοκρατίας | [🔗 Διάβασε](https://github.com/Michelis2023/short-stories/blob/main/ta-smyrdakia.html) |
+| **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου | [🔗 Διάβασε](https://github.com/Michelis2023/short-stories/blob/main/to-xeri-kato-apo-to-xoma.html) |
 
 ---
 
@@ -39,6 +39,7 @@
 
 **Email**: michalakopoulosmichael@gmail.com  
 **GitHub**: [@Michelis2023](https://github.com/Michelis2023)  
+**Συλλογή Διηγημάτων**: [short-stories](https://github.com/Michelis2023/short-stories)
 
 ---
 
