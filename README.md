@@ -12,7 +12,7 @@
 |--------|-----------|----------|
 | **Τα Σμυρδάκια** | Γοτθικό διήγημα τρόμου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
 | **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
-| **Οι Φωνές Κάτω από το Χώμα** | Ιστορία τρόμου και υπερφυσικού | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/oi-phones-kato-apo-to-khoma.html) |
+| **Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη** | Ιστορία τρόμου και υπερφυσικού | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/oi-phones-kato-apo-to-khoma.html) |
 
 ---
 
