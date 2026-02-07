@@ -6,6 +6,28 @@
 
 ---
 
+## 📖 Οι Συλλογές Μου
+
+### 🌙 [Οι Ιστορίες που Έλεγε η Γιαγιά](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
+
+*Μια συλλογή παραδοσιακών οικογενειακών αφηγήσεων και λαϊκών μύθων που διασώζουν τη μνήμη και τη σοφία των γενεών.*
+
+[![README](https://img.shields.io/badge/📚-Διαβάστε%20τη%20Συλλογή-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
+
+**Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη
+
+---
+
+### 🕯️ [Short Stories - Γοτθικά Διηγήματα](https://github.com/Michelis2023/short-stories)
+
+*Συλλογή γοτθικών διηγημάτων τρόμου με επιρροές από τον Edgar Allan Poe και την ελληνική λαογραφία.*
+
+[![Website](https://img.shields.io/badge/🌐-Επισκεφτείτε%20τον%20Ιστότοπο-darkred?style=for-the-badge)](https://michelis2023.github.io/short-stories/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/short-stories)
+
+**Θεματολογία:** Ψυχολογικός τρόμος • Υπερφυσικό • Γοτθική ατμόσφαιρα
+
+---
+
 ## 📚 Δημοσιευμένα Έργα
 
 | Τίτλος | Περιγραφή | Διαβάστε |
