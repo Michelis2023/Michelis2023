@@ -8,23 +8,27 @@
 
 ## 📖 Οι Συλλογές Μου
 
-### 🌙 [Οι Ιστορίες που Έλεγε η Γιαγιά](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
+### 🌙 [Οι Ιστορίες που Έλεγε η Γιαγιά](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 
 *Μια συλλογή παραδοσιακών οικογενειακών αφηγήσεων και λαϊκών μύθων που διασώζουν τη μνήμη και τη σοφία των γενεών.*
 
-[![README](https://img.shields.io/badge/📚-Διαβάστε%20τη%20Συλλογή-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
+[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
 
-**Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη
+**Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
+
+**Περιεχόμενα:** 15 διηγήματα που καλύπτουν ιστορίες από τον Ελληνοϊταλικό Πόλεμο, τη Μικρασιατική Καταστροφή, την Επανάσταση του 1821, θρησκευτικές παραδόσεις και λαϊκούς θρύλους της Αρκαδίας.
 
 ---
 
-### 🕯️ [Short Stories - Γοτθικά Διηγήματα](https://github.com/Michelis2023/short-stories)
+### 🕯️ [Short Stories - Γοτθικά Διηγήματα](https://michelis2023.github.io/short-stories/)
 
 *Συλλογή γοτθικών διηγημάτων τρόμου με επιρροές από τον Edgar Allan Poe και την ελληνική λαογραφία.*
 
-[![Website](https://img.shields.io/badge/🌐-Επισκεφτείτε%20τον%20Ιστότοπο-darkred?style=for-the-badge)](https://michelis2023.github.io/short-stories/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/short-stories)
+[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkred?style=for-the-badge)](https://michelis2023.github.io/short-stories/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/short-stories)
 
 **Θεματολογία:** Ψυχολογικός τρόμος • Υπερφυσικό • Γοτθική ατμόσφαιρα
+
+**Περιεχόμενα:** 4 ολοκληρωμένα γοτθικά διηγήματα που συνδυάζουν τον κλασικό ευρωπαϊκό τρόμο με την ελληνική δημοτική παράδοση.
 
 ---
 
@@ -43,8 +47,8 @@
 
 - **Γλώσσα Κύρια**: Ελληνικά 🇬🇷
 - **Τομέας Ενδιαφέροντος**: Λαϊκή Λογοτεχνία, Διηγήματα, Ιστορία
-- **Δημοσιευμένα Έργα**: 4 ολοκληρωμένα διηγήματα σε ελληνικά
-- **Συνολικές Λέξεις**: ~65.000+ λέξεις γοτθικής λογοτεχνίας
+- **Δημοσιευμένα Έργα**: 19 ολοκληρωμένα διηγήματα σε ελληνικά
+- **Συνολικές Λέξεις**: ~100.000+ λέξεις λογοτεχνίας
 - **Ποσοστό Ελληνικού Περιεχομένου**: 100%
 - **Status Παραγωγής**: Ενεργή ✅
 
@@ -53,8 +57,8 @@
 ## 📊 Στατιστικά & Κατεύθυνση
 
 **Αριθμητικά Στοιχεία:**
-- ✍️ 4 ολοκληρωμένα διηγήματα
-- 📖 ~69.000+ λέξεις δημοσιευμένες
+- ✍️ 19 ολοκληρωμένα διηγήματα (15 παραδοσιακά + 4 γοτθικά)
+- 📖 ~100.000+ λέξεις δημοσιευμένες
 - 🌍 Πλήρως διαθέσιμα στο GitHub & στο web
 - 👥 Σταθερή αναπτυξιακή κοινότητα
 
@@ -78,7 +82,8 @@
 |-----------|------|
 | **Email** | [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com) |
 | **GitHub** | [@Michelis2023](https://github.com/Michelis2023) |
-| **Website** | [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories) |
+| **Συλλογή Γοτθικών** | [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories) |
+| **Οι Ιστορίες της Γιαγιάς** | [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia) |
 
 ### 🌐 Κοινωνικά Μέσα
 
@@ -120,6 +125,7 @@
 ✅ Δικαίωμα αποκλειστικής κατοχής και διαχείρισης
 ✅ Απαγόρευση αναπαραγωγής χωρίς άδεια
 ✅ Δικαίωμα νομικής δίωξης σε περιπτώσεις παραβίασης
+
 Ευχαριστώ θερμά:
 - 🎓 Τη κοινότητα των αναγνωστών που υποστηρίζουν την ελληνική λογοτεχνία
 - ✍️ Τους συναδέλφους συγγραφείς που συνεργάζονται στη διατήρηση του πολιτισμού
