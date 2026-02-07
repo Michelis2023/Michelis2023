@@ -18,6 +18,32 @@
 
 **Περιεχόμενα:** 15 διηγήματα που καλύπτουν ιστορίες από τον Ελληνοϊταλικό Πόλεμο, τη Μικρασιατική Καταστροφή, την Επανάσταση του 1821, θρησκευτικές παραδόσεις και λαϊκούς θρύλους της Αρκαδίας.
 
+#### 📚 Πλήρης Πίνακας Διηγημάτων
+
+| # | Τίτλος | Θεματική | Διαβάστε |
+|---|--------|----------|----------|
+| 01 | **Η ψυχή του Θοδωράκη στο Ύψωμα 731** | Ελληνοϊταλικός Πόλεμος | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/01.html) |
+| 02 | **Το φως της Παναγίας στα βουνά της Αλβανίας** | Θρησκευτικό θαύμα στον πόλεμο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/02.html) |
+| 03 | **Μαρτυρίες Πείνας στο Χωριό μου** | Κατοχή & δύσκολες εποχές | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/03.html) |
+| 04 | **Η Φωτεινή και το μεγάλο ΟΧΙ** | Γυναικεία αντίσταση | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/04.html) |
+| 05 | **Ο Αείμνηστος στη μάχη των Πλαταιών** | Αρχαία ελληνική ιστορία | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/05.html) |
+| 06 | **Η ύστατη ανάσα του Θεσπιέα** | Θερμοπύλες & θυσία | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/06.html) |
+| 07 | **Η Λευτεριά της Τριπολιτσάς** | Επανάσταση του 1821 | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/07.html) |
+| 08 | **Το δρομολόι του Αϊ-Γιάννη** | Λαϊκός θρύλος | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) |
+| 09 | **Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων** | Πολιτισμική κληρονομιά | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) |
+| 10 | **Ο Χριστός και ο Τεμπέλης** | Λαϊκό παραμύθι | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) |
+| 11 | **Η Ιστορία Του Κυρίου και του Υφαντή** | Παραβολή | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) |
+| 12 | **Ο παπάς κι ο Αγάς** | Ιστορικό ανέκδοτο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) |
+| 13 | **Το Θαύμα του Δεκαπενταύγουστου** | Θρησκευτικό έθιμο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) |
+| 14 | **Το πρόσφορο της γιαγιάς Φωτεινής** | Οικογενειακή παράδοση | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) |
+| 15 | **Το Δωδεκαήμερο στα ορεινά χωριά** | Χριστουγεννιάτικα έθιμα | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) |
+
+**Επιπλέον Υλικό:**
+- [📝 Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html)
+- [👤 Σχετικά με τον Συγγραφέα](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html)
+- [📖 Γλωσσάρι Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html)
+- [🙏 Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
+
 ---
 
 ### 🕯️ [Short Stories - Γοτθικά Διηγήματα](https://michelis2023.github.io/short-stories/)
@@ -30,16 +56,14 @@
 
 **Περιεχόμενα:** 4 ολοκληρωμένα γοτθικά διηγήματα που συνδυάζουν τον κλασικό ευρωπαϊκό τρόμο με την ελληνική δημοτική παράδοση.
 
----
+#### 🦇 Πλήρης Πίνακας Γοτθικών Διηγημάτων
 
-## 📚 Δημοσιευμένα Έργα
-
-| Τίτλος | Περιγραφή | Διαβάστε |
-|--------|-----------|----------|
-| **Τα Σμυρδάκια** | Γοτθικό διήγημα τρόμου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
-| **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
-| **Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη** | Ιστορία τρόμου και υπερφυσικού | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/to-zopheron-mystikon-tou-agiou-taxiarchi.html) |
-| **Η Λέσχη της Κυρίας Β.** | Γοτθικό διήγημα τρόμου | [🔗 Διάβασε](https://michelis2023.github.io/short-stories/I-Leshi-tis-Kyrias-B..html) |
+| # | Τίτλος | Περιγραφή | Διαβάστε |
+|---|--------|-----------|----------|
+| 01 | **Τα Σμυρδάκια** | Γοτθικό διήγημα τρόμου | [🔗](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
+| 02 | **Το Χέρι Κάτω από το Χώμα** | Ιστορία υπερφυσικού φόβου | [🔗](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
+| 03 | **Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη** | Τρόμος και υπερφυσικό | [🔗](https://michelis2023.github.io/short-stories/to-zopheron-mystikon-tou-agiou-taxiarchi.html) |
+| 04 | **Η Λέσχη της Κυρίας Β.** | Γοτθικό διήγημα τρόμου | [🔗](https://michelis2023.github.io/short-stories/I-Leshi-tis-Kyrias-B..html) |
 
 ---
 
