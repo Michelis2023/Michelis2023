@@ -1,12 +1,37 @@
 # 🌙 Μιχαήλ Σ. Μιχαλακόπουλος
 
+<div align="center">
+
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)
+
+### *Συγγραφέας Διηγημάτων & Νουβελών*
+*Γοτθική Λογοτεχνία • Λαϊκή Παράδοση • Φιλολογική Επιμέλεια*
+
+**📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
+
+---
+
+### 🎯 Διαβάστε τα Έργα μου Online
+
+[![Παραδοσιακές Ιστορίες](https://img.shields.io/badge/🌙_Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Γοτθικά Διηγήματα](https://img.shields.io/badge/🕯️_Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
+
+</div>
+
+---
+
+## 📱 Κοινοποίηση στα Social Media
 
 <div align="center">
 
-*Συγγραφέας Διηγημάτων & Νουβελών | Γοτθική Λογοτεχνία • Λαϊκή Παράδοση • Φιλολογική Επιμέλεια*
+### Μοιραστείτε τα Έργα μου
 
-**📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
+[![Share on Facebook](https://img.shields.io/badge/Facebook-Κοινοποίηση-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Share on Twitter](https://img.shields.io/badge/Twitter-Tweet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https://michelis2023.github.io/short-stories/&text=Διαβάστε%20γοτθικά%20διηγήματα%20από%20τον%20Μιχαήλ%20Μιχαλακόπουλο)
+
+**🌐 Live Sites:**
+- 🌙 Παραδοσιακά: [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia)
+- 🕯️ Γοτθικά: [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories)
 
 </div>
 
