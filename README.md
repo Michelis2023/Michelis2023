@@ -1,144 +1,191 @@
-# ❤️ Μιχαήλ Σ. Μιχαλακόπουλος
+# 🌙 Μιχαήλ Σ. Μιχαλακόπουλος
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/) [![Language: Greek](https://img.shields.io/badge/Language-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org/) [![Genre: Literary Fiction](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=PROFILE%20VIEWS)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)
 
-*Συγγραφέας Γοτθικών Διηγημάτων | Ελληνική Λαογραφία & Παράδοση*
+<div align="center">
+
+*Συγγραφέας Διηγημάτων & Νουβελών | Γοτθική Λογοτεχνία • Λαϊκή Παράδοση • Φιλολογική Επιμέλεια*
+
+**📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
+
+</div>
 
 ---
 
 ## 📖 Οι Συλλογές Μου
 
-### 🌙 [Οι Ιστορίες που Έλεγε η Γιαγιά](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+### 🌙 Οι Ιστορίες που Έλεγε η Γιαγιά
 
-*Μια συλλογή παραδοσιακών οικογενειακών αφηγήσεων και λαϊκών μύθων που διασώζουν τη μνήμη και τη σοφία των γενεών.*
+<div align="center">
 
 [![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
 
-**Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
+</div>
 
-**Περιεχόμενα:** 16 διηγήματα που καλύπτουν ιστορίες από τον Ελληνοϊταλικό Πόλεμο, τη Μικρασιατική Καταστροφή, την Επανάσταση του 1821, θρησκευτικές παραδόσεις και λαϊκούς θρύλους της Αρκαδίας.
+*Μια συλλογή παραδοσιακών οικογενειακών αφηγήσεων και λαϊκών μύθων που διασώζουν τη μνήμη και τη σοφία των γενεών της Γορτυνίας Αρκαδίας.*
 
-#### 📚 Πλήρης Πίνακας Διηγημάτων
+**🎯 Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
 
-| # | Τίτλος | Θεματική | Διαβάστε |
-|---|--------|----------|----------|
-| 01 | **Η ψυχή του Θοδωράκη στο Ύψωμα 731** | Ελληνοϊταλικός Πόλεμος | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/01.html) |
-| 02 | **Το φως της Παναγίας στα βουνά της Αλβανίας** | Θρησκευτικό θαύμα στον πόλεμο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/02.html) |
-| 03 | **Μαρτυρίες Πείνας στο Χωριό μου** | Κατοχή & δύσκολες εποχές | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/03.html) |
-| 04 | **Η Φωτεινή και το μεγάλο ΟΧΙ** | Γυναικεία αντίσταση | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/04.html) |
-| 05 | **Ο Αείμνηστος στη μάχη των Πλαταιών** | Αρχαία ελληνική ιστορία | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/05.html) |
-| 06 | **Η ύστατη ανάσα του Θεσπιέα** | Θερμοπύλες & θυσία | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/06.html) |
-| 07 | **Η Λευτεριά της Τριπολιτσάς** | Επανάσταση του 1821 | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/07.html) |
-| 08 | **Το δρομολόι του Αϊ-Γιάννη** | Λαϊκός θρύλος | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) |
-| 09 | **Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων** | Πολιτισμική κληρονομιά | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) |
-| 10 | **Ο Χριστός και ο Τεμπέλης** | Λαϊκό παραμύθι | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) |
-| 11 | **Η Ιστορία Του Κυρίου και του Υφαντή** | Παραβολή | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) |
-| 12 | **Ο παπάς κι ο Αγάς** | Ιστορικό ανέκδοτο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) |
-| 13 | **Το Θαύμα του Δεκαπενταύγουστου** | Θρησκευτικό έθιμο | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) |
-| 14 | **Το πρόσφορο της γιαγιάς Φωτεινής** | Οικογενειακή παράδοση | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) |
-| 15 | **Το Δωδεκαήμερο στα ορεινά χωριά** | Χριστουγεννιάτικα έθιμα | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) |
-| 16 | **Το γουρούνι της Αποκριάς** | Αποκριάτικα έθιμα & σφάξιμο γουρουνιού | [🔗](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) |
+**📊 Περιεχόμενα:** 16 διηγήματα + 4 επιπλέον σελίδες
 
-**Επιπλέον Υλικό:**
-- [📝 Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html)
-- [👤 Σχετικά με τον Συγγραφέα](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html)
-- [📖 Γλωσσάρι Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
-- [🙏 Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/20.html)
+<details>
+<summary><b>📚 Δείτε Όλα τα Διηγήματα (κλικ για ανάπτυξη)</b></summary>
+
+| # | Τίτλος | Θεματική |
+|---|--------|----------|
+| 01 | [Η ψυχή του Θοδωράκη στο Ύψωμα 731](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/01.html) | Ελληνοϊταλικός Πόλεμος |
+| 02 | [Το φως της Παναγίας στα βουνά της Αλβανίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/02.html) | Θρησκευτικό θαύμα |
+| 03 | [Μαρτυρίες Πείνας στο Χωριό μου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/03.html) | Κατοχή |
+| 04 | [Η Φωτεινή και το μεγάλο ΟΧΙ](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/04.html) | Γυναικεία αντίσταση |
+| 05 | [Ο Αείμνηστος στη μάχη των Πλαταιών](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/05.html) | Αρχαία Ελλάδα |
+| 06 | [Η ύστατη ανάσα του Θεσπιέα](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/06.html) | Θερμοπύλες |
+| 07 | [Η Λευτεριά της Τριπολιτσάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/07.html) | Επανάσταση 1821 |
+| 08 | [Το δρομολόι του Αϊ-Γιάννη](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) | Λαϊκός θρύλος |
+| 09 | [Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) | Πολιτισμική κληρονομιά |
+| 10 | [Ο Χριστός και ο Τεμπέλης](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Λαϊκό παραμύθι |
+| 11 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Παραβολή |
+| 12 | [Ο παπάς κι ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Τουρκοκρατία |
+| 13 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Θρησκευτικό έθιμο |
+| 14 | [Το πρόσφορο της γιαγιάς Φωτεινής](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Οικογενειακή παράδοση |
+| 15 | [Το Δωδεκαήμερο στα ορεινά χωριά](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Χριστούγεννα |
+| 16 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) | Αποκριάτικα έθιμα |
+
+**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/20.html)
+
+</details>
 
 ---
 
-### 🕯️ [Short Stories - Γοτθικά Διηγήματα](https://michelis2023.github.io/short-stories/)
+### 🕯️ Γοτθικά Διηγήματα
 
-*Συλλογή γοτθικών διηγημάτων τρόμου με επιρροές από τον Edgar Allan Poe και την ελληνική λαογραφία.*
+<div align="center">
 
 [![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkred?style=for-the-badge)](https://michelis2023.github.io/short-stories/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/short-stories)
 
-**Θεματολογία:** Ψυχολογικός τρόμος • Υπερφυσικό • Γοτθική ατμόσφαιρα
+</div>
 
-**Περιεχόμενα:** 6 ολοκληρωμένα γοτθικά διηγήματα που συνδυάζουν τον κλασικό ευρωπαϊκό τρόμο με την ελληνική δημοτική παράδοση.
+*Συλλογή γοτθικών διηγημάτων τρόμου εμπνευσμένων από τον Edgar Allan Poe και την ελληνική λαογραφία.*
 
-#### 🦇 Πλήρης Πίνακας Γοτθικών Διηγημάτων
+**🎯 Θεματολογία:** Ψυχολογικός τρόμος • Υπερφυσικό • Γοτθική ατμόσφαιρα
 
-| # | Τίτλος | Περιγραφή | Ημερομηνία | Διαβάστε |
-|---|--------|-----------|------------|----------|
-| 01 | **Τα Σμυρδάκια** 🐀 | Παιδιά που θάφτηκαν ζωντανά επιστρέφουν για εκδίκηση | Φεβ 2026 | [🔗](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
-| 02 | **Η Σκιά Μέσα Στον Καθρέφτη** 👻 | Η αντανάκλαση που αποκτά δική της βούληση | Φεβ 2026 | [🔗](https://michelis2023.github.io/short-stories/i-skia-mesa-ston-kathrefthi.html) |
-| 03 | **Νυχτερινή Βάρδια στο Σανατόριο του Μαινάλου** 🏥 ⭐ *ΝΕΟ* | Γιατρός ανακαλύπτει το σκοτεινό μυστικό ενός σανατόριου | Φεβ 2026 | [🔗](https://michelis2023.github.io/short-stories/nukhterine-bardia-sto-sanatorio-tou-mainalou.html) |
-| 04 | **Το Χέρι Κάτω από το Χώμα** ✋ | Χέρι που ξεπροβάλλει από τη γη και σε κυνηγά | Ιαν 2026 | [🔗](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
-| 05 | **Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη** ⛪ | Εγκαταλελειμμένος ναός με σκοτεινά μυστικά | Ιαν 2026 | [🔗](https://michelis2023.github.io/short-stories/to-zopheron-mystikon-tou-agiou-taxiarchi.html) |
-| 06 | **Η Λέσχη της Κυρίας Β.** 🎭 | Αριστοκρατική λέσχη με σκοτεινά μυστικά | Δεκ 2025 | [🔗](https://michelis2023.github.io/short-stories/I-Leshi-tis-Kyrias-B..html) |
+**📊 Περιεχόμενα:** 6 ολοκληρωμένα γοτθικά διηγήματα
+
+<details>
+<summary><b>🦇 Δείτε Όλα τα Διηγήματα (κλικ για ανάπτυξη)</b></summary>
+
+| Τίτλος | Περιγραφή | Ημερομηνία |
+|--------|-----------|------------|
+| 🐀 [Τα Σμυρδάκια](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) | Παιδιά που θάφτηκαν ζωντανά επιστρέφουν για εκδίκηση | Φεβ 2026 |
+| 👻 [Η Σκιά Μέσα Στον Καθρέφτη](https://michelis2023.github.io/short-stories/i-skia-mesa-ston-kathrefthi.html) | Η αντανάκλαση που αποκτά δική της βούληση | Φεβ 2026 |
+| 🏥 [Νυχτερινή Βάρδια στο Σανατόριο του Μαινάλου](https://michelis2023.github.io/short-stories/nukhterine-bardia-sto-sanatorio-tou-mainalou.html) ⭐ | Γιατρός ανακαλύπτει σκοτεινά μυστικά σανατορίου | Φεβ 2026 |
+| ✋ [Το Χέρι Κάτω από το Χώμα](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) | Χέρι που ξεπροβάλλει από τη γη και σε κυνηγά | Ιαν 2026 |
+| ⛪ [Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη](https://michelis2023.github.io/short-stories/to-zopheron-mystikon-tou-agiou-taxiarchi.html) | Εγκαταλελειμμένος ναός με σκοτεινά μυστικά | Ιαν 2026 |
+| 🎭 [Η Λέσχη της Κυρίας Β.](https://michelis2023.github.io/short-stories/I-Leshi-tis-Kyrias-B..html) | Αριστοκρατική λέσχη με σκοτεινά μυστικά | Δεκ 2025 |
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=f4f1ea&icon_color=8B0000&border_color=6b4423&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelis2023&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=f4f1ea&border_color=6b4423&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michelis2023&theme=dark&background=0d0d0d&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=f4f1ea&dates=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&hide_border=true)
+
+</div>
 
 ---
 
 ## 💻 Τεχνικά Δεδομένα
 
-- **Γλώσσα Κύρια**: Ελληνικά 🇬🇷
-- **Τομέας Ενδιαφέροντος**: Λαϊκή Λογοτεχνία, Διηγήματα, Ιστορία
-- **Δημοσιευμένα Έργα**: 22 ολοκληρωμένα διηγήματα σε ελληνικά
-- **Συνολικές Λέξεις**: ~120.000+ λέξεις λογοτεχνίας
-- **Ποσοστό Ελληνικού Περιεχομένου**: 100%
-- **Status Παραγωγής**: Ενεργή ✅
+```text
+📝 Γλώσσα Κύρια        │ Ελληνικά 🇬🇷
+🎯 Τομέας              │ Λογοτεχνία, Διηγήματα, Ιστορία
+📚 Δημοσιευμένα Έργα   │ 22 ολοκληρωμένα διηγήματα
+✍️ Συνολικές Λέξεις    │ 120.000+ λέξεις
+🌍 Ελληνικό Περιεχόμενο│ 100%
+⚡ Status               │ Ενεργός ✅
+📅 Πρόσφατη Ενημέρωση  │ Φεβρουάριος 2026
+```
 
 ---
 
-## 📊 Στατιστικά & Κατεύθυνση
+## 🎯 Όραμα & Στόχοι
 
-**Αριθμητικά Στοιχεία:**
-- ✍️ 22 ολοκληρωμένα διηγήματα (16 παραδοσιακά + 6 γοτθικά)
-- 📖 ~120.000+ λέξεις δημοσιευμένες
-- 🌍 Πλήρως διαθέσιμα στο GitHub & στο web
-- 👥 Σταθερή αναπτυξιακή κοινότητα
-- 🆕 Πρόσφατη ενημέρωση: Φεβρουάριος 2026
-
----
-
-## 🎯 Στόχοι & Όραμα
-
-- 🏛️ Τεκμηρίωση και διατήρηση ελληνικών λαϊκών ιστοριών
-- 📜 Ανακάλυψη και δημοσίευση παραδοσιακών αφηγήσεων
-- 💾 Ψηφιοποίηση πολιτισμικής κληρονομιάς
-- 🌐 Διάδοση ελληνικής γοτθικής λογοτεχνίας διεθνώς
-- ✨ Δημιουργία ενός σταθμού ποιότητας στη γοτθική λογοτεχνία
+- 🏛️ **Διατήρηση:** Τεκμηρίωση και διάσωση ελληνικών λαϊκών ιστοριών
+- 📜 **Ανακάλυψη:** Δημοσίευση παραδοσιακών αφηγήσεων από τη Γορτυνία
+- 💾 **Ψηφιοποίηση:** Ψηφιακή διαθεσιμότητα πολιτισμικής κληρονομιάς
+- 🌐 **Διάδοση:** Προώθηση ελληνικής γοτθικής λογοτεχνίας διεθνώς
+- ✨ **Ποιότητα:** Δημιουργία σταθμού αναφοράς στη γοτθική λογοτεχνία
 
 ---
 
-## 📞 Κοινωνικά Δίκτυα & Επαφές
+## 📞 Επικοινωνία
 
-### 📧 Επαγγελματικές Επαφές
+<div align="center">
 
-| Πλατφόρμα | Λίνκ |
-|-----------|------|
-| **Email** | [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com) |
-| **GitHub** | [@Michelis2023](https://github.com/Michelis2023) |
-| **Συλλογή Γοτθικών** | [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories) |
-| **Οι Ιστορίες της Γιαγιάς** | [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia) |
+### Επαγγελματικές Επαφές
 
-### 🌐 Κοινωνικά Μέσα
+| Πλατφόρμα | Σύνδεσμος |
+|-----------|----------|
+| 📧 **Email** | [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com) |
+| 💻 **GitHub** | [@Michelis2023](https://github.com/Michelis2023) |
+| 🌙 **Παραδοσιακά** | [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia) |
+| 🕯️ **Γοτθικά** | [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories) |
 
-| Δίκτυο | Λίνκ |
-|--------|------|
-| **Facebook** | [Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
-| **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
+### Κοινωνικά Δίκτυα
+
+| Δίκτυο | Σύνδεσμος |
+|--------|----------|
+| 📘 **Facebook** | [Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
+| 🎵 **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
+
+</div>
 
 ---
 
-## 📚 Σχετικά με Εμένα
+## 👤 Σχετικά με Εμένα
 
-Είμαι συγγραφέας με διπλή δημιουργική ταυτότητα: από τη μία πλευρά διασώζω την ελληνική λαϊκή παράδοση μέσα από **16 παραδοσιακά διηγήματα** που αντλούν από τη μνήμη της Γορτυνίας Αρκαδίας, και από την άλλη δημιουργώ **6 γοτθικά διηγήματα τρόμου** εμπνευσμένα από τον Edgar Allan Poe και την ευρωπαϊκή γοτθική παράδοση.
+Είμαι συγγραφέας και ερευνητής της ελληνικής λογοτεχνίας, αφιερωμένος στην ανάδειξη των παραδοσιακών οικογενειακών αφηγήσεων, των λαϊκών μύθων και της αυθεντικής γλώσσας.
 
-### 🌙 Η Παραδοσιακή Μου Πλευρά
+### 🌙 Παραδοσιακή Λογοτεχνία
 
-Στη συλλογή **"Οι Ιστορίες που Έλεγε η Γιαγιά"** καταγράφω προφορικές μαρτυρίες, ιστορικά γεγονότα και λαϊκούς θρύλους που διαμορφώνουν την ταυτότητα της ελληνικής υπαίθρου. Τα διηγήματά μου καλύπτουν:
+Στη συλλογή **"Οι Ιστορίες που Έλεγε η Γιαγιά"** καταγράφω προφορικές μαρτυρίες, ιστορικά γεγονότα και λαϊκούς θρύλους που διαμορφώνουν την ταυτότητα της ελληνικής υπαίθρου:
 
-**Ιστορικά Γεγονότα:**
-- Τον Ελληνοϊταλικό Πόλεμο και την Κατοχή (ψυχές στρατιωτών, πείνα, γυναικεία αντίσταση)
-- Την Επανάσταση του 1821 (η Λευτεριά της Τριπολιτσάς)
-- Αρχαία ελληνική ιστορία (Πλαταιές, Θερμοπύλες)
-- Την Τουρκοκρατία και τις σχέσεις χριστιανών-μουσουλμάνων
+- **Ιστορικά Γεγονότα:** Ελληνοϊταλικός Πόλεμος, Κατοχή, Επανάσταση 1821, Αρχαία Ελλάδα
+- **Θρησκευτικές Παραδόσεις:** Θαύματα Παναγίας, Δεκαπενταύγουστος, Δωδεκαήμερο, Αποκριά
+- **Λαϊκοί Θρύλοι:** Αφηγήσεις γιαγιάδων, παραδοσιακά έθιμα, τοπική ιστορία
 
-**Θρησκευτικές Παραδόσεις:**
-- Θαύματα της Παναγίας στον πόλεμο
-- Το Δεκαπενταύγουστο και τα λαϊκά προσκυνήματα
-- Εκκλησιαστικά έθιμα και λειτουργίες
-- Το Δωδεκαήμερο
-- Έθιμα της Αποκριάς (γουρνοσφάγια)
+### 🕯️ Γοτθική Λογοτεχνία
+
+Στη συλλογή **"Γοτθικά Διηγήματα"** δημιουργώ ιστορίες τρόμου που συνδυάζουν:
+
+- **Edgar Allan Poe:** Ψυχολογική ένταση, ατμόσφαιρα τρόμου, σκοτεινή αισθητική
+- **Ελληνική Λαογραφία:** Λαϊκές δοξασίες, θρύλοι, παραδοσιακά στοιχεία
+- **Γοτθική Παράδοση:** Εγκαταλελειμμένοι τόποι, υπερφυσικό, μυστήριο
+
+### 🎓 Φιλοσοφία Δημιουργίας
+
+Πιστεύω στην:
+- **Αυθεντικότητα:** Σεβασμός στην πρωτογενή πηγή και τη λαϊκή γλώσσα
+- **Ποιότητα:** Φιλολογική επιμέλεια και προσοχή στη λεπτομέρεια
+- **Διαθεσιμότητα:** Ελεύθερη πρόσβαση μέσω GitHub Pages
+- **Διατήρηση:** Ψηφιοποίηση και διάσωση πολιτισμικής κληρονομιάς
+
+---
+
+<div align="center">
+
+**Καλή ανάγνωση! 📖✨**
+
+*Κάθε ιστορία είναι ένα ταξίδι στη μνήμη και τη φαντασία...*
+
+---
+
+⭐ **Αν σας άρεσαν τα έργα μου, κάντε star στα repositories!** ⭐
+
+</div>
