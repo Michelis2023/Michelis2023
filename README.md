@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) [![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)](https://github.com/Michelis2023)
 
 ### 📚 *Συγγραφέας & Ερευνητής Ελληνικής Λογοτεχνίας*
 ### ✍️ *Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια*
@@ -140,15 +140,13 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=f4f1ea&icon_color=8B0000&border_color=6b4423&hide_border=true)
+**📚 22 Δημοσιευμένα Διηγήματα • ✍️ 120.000+ Λέξεις • 🇬🇷 100% Ελληνικά**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelis2023&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=f4f1ea&border_color=6b4423&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michelis2023&theme=dark&background=0d0d0d&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=f4f1ea&dates=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&hide_border=true)
+**⚡ Ενεργός Συγγραφέας • 📅 Τελευταία Ενημέρωση: Φεβρουάριος 2026**
 
 </div>
 
