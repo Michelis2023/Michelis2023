@@ -12,7 +12,6 @@
 
 **🔍 Keywords:** Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe
 
-[![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Αγοράστε%20το%20Βιβλίο-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 [![Professional Writer](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
 </div>
@@ -23,19 +22,17 @@
 
 <div align="center">
 
-### Τα Έργα μου Φιλοξενούνται στο
+**Τα Έργα μου Φιλοξενούνται στο**
 
 [![Pemptousia.gr](https://img.shields.io/badge/📰_Pemptousia.gr-Θρησκευτικό%20Portal-8B4513?style=for-the-badge)](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
 
 *Διηγηματογράφος Λαϊκής Παράδοσης και Θρησκευτικών Εθίμων*
 
-**Διαβάστε τα διηγήματά μου:** [Pemptousia.gr - Συγγραφέας](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
-
 </div>
 
 ---
 
-## 🎯 Διαβάστε τα Έργα μου Online
+## 🌐 Διαβάστε τα Έργα μου
 
 <div align="center">
 
@@ -50,8 +47,6 @@
 
 <div align="center">
 
-### Κοινωνικά Δίκτυα & Πλατφόρμες
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Michelis77)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michelis_77)
@@ -63,10 +58,6 @@
 
 [![Share on Facebook](https://img.shields.io/badge/Facebook-Κοινοποίηση-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 [![Share on X](https://img.shields.io/badge/X-Post-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?url=https://michelis2023.github.io/short-stories/&text=Διαβάστε%20γοτθικά%20διηγήματα%20από%20τον%20Μιχαήλ%20Μιχαλακόπουλο)
-
-**🌐 Live Sites:**
-- 🌙 Παραδοσιακά: [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia)
-- 🕯️ Γοτθικά: [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories)
 
 </div>
 
@@ -93,7 +84,7 @@
 
 <div align="center">
 
-[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia) [![Lulu eBook](https://img.shields.io/badge/🛒-Αγοράστε%20στο%20Lulu-FF6C37?style=for-the-badge)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
+[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
 
 </div>
 
@@ -185,12 +176,12 @@
 🌍 Ελληνικό Περιεχόμενο│ 100%
 ⚡ Status               │ Ενεργός ✅
 📅 Πρόσφατη Ενημέρωση  │ Φεβρουάριος 2026
-🎬 Πλατφόρμες          │ Lulu • GitHub Pages • Pemptousia.gr
+🎬 Πλατφόρμες          │ GitHub Pages • Lulu • Pemptousia.gr
 ```
 
 ---
 
-## 🎯 Όραμα & Στόχοι
+## ⭐ Όραμα & Στόχοι
 
 - 🏛️ **Διατήρηση:** Τεκμηρίωση και διάσωση ελληνικών λαϊκών ιστοριών
 - 📜 **Ανακάλυψη:** Δημοσίευση παραδοσιακών αφηγήσεων από τη Γορτυνία
@@ -198,32 +189,6 @@
 - 🌐 **Διάδοση:** Προώθηση ελληνικής γοτθικής λογοτεχνίας διεθνώς
 - ✨ **Ποιότητα:** Δημιουργία σταθμού αναφοράς στη γοτθική λογοτεχνία
 - 🎓 **Εκπαίδευση:** Καθοδήγηση σύγχρονων συγγραφέων στην αυτοέκδοση
-
----
-
-## 📞 Επικοινωνία
-
-<div align="center">
-
-### Επαγγελματικές Επαφές
-
-| Πλατφόρμα | Σύνδεσμος |
-|-----------|----------|
-| 📧 **Email** | [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com) |
-| 💻 **GitHub** | [@Michelis2023](https://github.com/Michelis2023) |
-| 🌙 **Παραδοσιακά** | [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia) |
-| 🕯️ **Γοτθικά** | [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories) |
-
-### Κοινωνικά Δίκτυα
-
-| Δίκτυο | Σύνδεσμος |
-|--------|----------|
-| 📘 **Facebook** | [Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
-| 🐦 **X (Twitter)** | [@Michelis77](https://x.com/Michelis77) |
-| 🎵 **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
-| 🎬 **YouTube** | [@MichelisM](https://www.youtube.com/@MichelisM) |
-
-</div>
 
 ---
 
@@ -247,16 +212,7 @@
 - **Ελληνική Λαογραφία:** Λαϊκές δοξασίες, θρύλοι, παραδοσιακά στοιχεία
 - **Γοτθική Παράδοση:** Εγκαταλελειμμένοι τόποι, υπερφυσικό, μυστήριο
 
-### 🎓 Φιλοσοφία Δημιουργίας
-
-Πιστεύω στην:
-- **Αυθεντικότητα:** Σεβασμός στην πρωτογενή πηγή και τη λαϊκή γλώσσα
-- **Ποιότητα:** Φιλολογική επιμέλεια και προσοχή στη λεπτομέρεια
-- **Διαθεσιμότητα:** Ελεύθερη πρόσβαση μέσω GitHub Pages
-- **Διατήρηση:** Ψηφιοποίηση και διάσωση πολιτισμικής κληρονομιάς
-- **Καινοτομία:** Συνδυασμός παράδοσης με σύγχρονη τεχνολογία
-
-### 📚 Υπηρεσίες που Προσφέρω
+### 📚 Υπηρεσίες
 
 - ✍️ **Συγγραφή:** Διηγήματα, νουβέλες, λογοτεχνικά κείμενα
 - 📝 **Φιλολογική Επιμέλεια:** Γλωσσική διόρθωση και βελτιστοποίηση κειμένων
@@ -265,61 +221,33 @@
 
 ---
 
-## 🔍 SEO & Indexing για Google Search Console
+## 📞 Επικοινωνία
 
 <div align="center">
 
-### Βοηθήστε τους Αναγνώστες να με Βρουν!
-
-**Για να με βρίσκουν πιο εύκολα στη Google, ακολουθήστε αυτά τα βήματα:**
+| Πλατφόρμα | Σύνδεσμος |
+|-----------|----------|
+| 📧 **Email** | [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com) |
+| 📘 **Facebook** | [@Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
+| 🐦 **X (Twitter)** | [@Michelis77](https://x.com/Michelis77) |
+| 🎵 **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
+| 🎬 **YouTube** | [@MichelisM](https://www.youtube.com/@MichelisM) |
+| 💻 **GitHub** | [@Michelis2023](https://github.com/Michelis2023) |
 
 </div>
-
-### 📋 Οδηγίες Google Search Console
-
-**Βήμα 1: Verify τα Sites σας**
-1. Πηγαίνετε στο [Google Search Console](https://search.google.com/search-console)
-2. Κάντε "Add Property" για:
-   - `https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/`
-   - `https://michelis2023.github.io/short-stories/`
-3. Επιλέξτε "HTML tag" method για verification
-4. Προσθέστε το meta tag στο `<head>` των HTML αρχείων σας
-
-**Βήμα 2: Submit Sitemaps**
-1. Δημιουργήστε `sitemap.xml` για κάθε site
-2. Submit στο Search Console: `URL Inspection` → `Request Indexing`
-
-**Βήμα 3: URL Inspection**
-1. Κάντε "Request Indexing" για κάθε σημαντική σελίδα:
-   - Homepage κάθε συλλογής
-   - Τα 5-10 κορυφαία διηγήματα
-
-**Χρήσιμα Keywords για SEO:**
-- Ελληνική λογοτεχνία
-- Γοτθικά διηγήματα ελληνικά
-- Λαϊκή παράδοση Ελλάδα
-- Greek Gothic fiction
-- Παραδοσιακά διηγήματα
-- Edgar Allan Poe ελληνικά
 
 ---
 
 <div align="center">
 
-## 🎉 Ξεκινήστε να Διαβάζετε Τώρα!
+## 🎉 Ξεκινήστε να Διαβάζετε!
 
-### 📖 Δωρεάν Online Ανάγνωση
+**📖 Δωρεάν Online Ανάγνωση • 🛒 Αγορά eBook • 📰 Περισσότερα στο Pemptousia.gr**
 
-[![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/🌙-Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
-[![Διαβάστε Γοτθικά](https://img.shields.io/badge/🕯️-Γοτθικά%20Διηγήματα-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
+[![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/🌙-Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-Διαβάστε%20Δωρεάν-2ea44f?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Διαβάστε Γοτθικά](https://img.shields.io/badge/🕯️-Γοτθικά%20Διηγήματα-Διαβάστε%20Δωρεάν-8B0000?style=for-the-badge)](https://michelis2023.github.io/short-stories/)
 
-### 🛒 Αγοράστε το eBook
-
-[![Αγορά στο Lulu](https://img.shields.io/badge/📚-Αγοράστε%20Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
-
-### 📰 Διαβάστε στο Pemptousia.gr
-
-[![Pemptousia.gr](https://img.shields.io/badge/📰-Διηγήματα%20στο%20Pemptousia.gr-8B4513?style=for-the-badge)](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
+[![Αγορά στο Lulu](https://img.shields.io/badge/📚-Αγοράστε%20το%20eBook-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 
 ---
 
@@ -330,9 +258,5 @@
 ---
 
 ⭐ **Αν σας άρεσαν τα έργα μου, κάντε star στα repositories!** ⭐
-
-[![Sponsor](https://img.shields.io/badge/Υποστήριξη-Καφές%20για%20τον%20συγγραφέα-orange?style=for-the-badge)](https://github.com/Michelis2023)
-
-*Κάθε υποστήριξη με βοηθά να συνεχίσω να δημιουργώ και να διασώζω την ελληνική λογοτεχνική παράδοση*
 
 </div>
