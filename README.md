@@ -36,8 +36,8 @@
 
 <div align="center">
 
-[![Παραδοσιακές Ιστορίες](https://img.shields.io/badge/🌙_Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
-[![Γοτθικά Διηγήματα](https://img.shields.io/badge/🕯️_Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
+[![Παραδοσιακές Ιστορίες](https://img.shields.io/badge/Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Γοτθικά Διηγήματα](https://img.shields.io/badge/Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
 
 </div>
 
@@ -218,8 +218,8 @@
 
 ## 🎉 Ξεκινήστε να Διαβάζετε!
 
-[![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/🌙-Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-Διαβάστε%20Δωρεάν-2ea44f?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
-[![Διαβάστε Γοτθικά](https://img.shields.io/badge/🕯️-Γοτθικά%20Διηγήματα-Διαβάστε%20Δωρεάν-8B0000?style=for-the-badge)](https://michelis2023.github.io/short-stories/)
+[![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε%20Δωρεάν-2ea44f?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Διαβάστε Γοτθικά](https://img.shields.io/badge/Γοτθικά_Διηγήματα-Διαβάστε%20Δωρεάν-8B0000?style=for-the-badge)](https://michelis2023.github.io/short-stories/)
 
 [![Αγορά στο Lulu](https://img.shields.io/badge/📚-Αγοράστε%20το%20eBook-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 
