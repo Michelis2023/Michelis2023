@@ -220,8 +220,6 @@
 
 ## 🎉 Ξεκινήστε να Διαβάζετε!
 
-**📖 Δωρεάν Online Ανάγνωση • 🛒 Αγορά eBook • 📰 Περισσότερα στο Pemptousia.gr**
-
 [![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/🌙-Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-Διαβάστε%20Δωρεάν-2ea44f?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 [![Διαβάστε Γοτθικά](https://img.shields.io/badge/🕯️-Γοτθικά%20Διηγήματα-Διαβάστε%20Δωρεάν-8B0000?style=for-the-badge)](https://michelis2023.github.io/short-stories/)
 
@@ -232,9 +230,5 @@
 **Καλή ανάγνωση! 📖✨**
 
 *Κάθε ιστορία είναι ένα ταξίδι στη μνήμη και τη φαντασία...*
-
----
-
-⭐ **Αν σας άρεσαν τα έργα μου, κάντε star στα repositories!** ⭐
 
 </div>
