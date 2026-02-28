@@ -10,12 +10,34 @@
 
 **📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
 
+**🔍 Keywords:** Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe
+
 [![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Αγοράστε%20το%20Βιβλίο-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 [![Professional Writer](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
+</div>
+
 ---
 
-### 🎯 Διαβάστε τα Έργα μου Online
+## 📰 Δημοσιεύσεις & Αναγνώριση
+
+<div align="center">
+
+### Τα Έργα μου Φιλοξενούνται στο
+
+[![Pemptousia.gr](https://img.shields.io/badge/📰_Pemptousia.gr-Θρησκευτικό%20Portal-8B4513?style=for-the-badge)](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
+
+*Διηγηματογράφος Λαϊκής Παράδοσης και Θρησκευτικών Εθίμων*
+
+**Διαβάστε τα διηγήματά μου:** [Pemptousia.gr - Συγγραφέας](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
+
+</div>
+
+---
+
+## 🎯 Διαβάστε τα Έργα μου Online
+
+<div align="center">
 
 [![Παραδοσιακές Ιστορίες](https://img.shields.io/badge/🌙_Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 [![Γοτθικά Διηγήματα](https://img.shields.io/badge/🕯️_Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
@@ -163,7 +185,7 @@
 🌍 Ελληνικό Περιεχόμενο│ 100%
 ⚡ Status               │ Ενεργός ✅
 📅 Πρόσφατη Ενημέρωση  │ Φεβρουάριος 2026
-🎬 Πλατφόρμες          │ Lulu • GitHub Pages
+🎬 Πλατφόρμες          │ Lulu • GitHub Pages • Pemptousia.gr
 ```
 
 ---
@@ -243,7 +265,63 @@
 
 ---
 
+## 🔍 SEO & Indexing για Google Search Console
+
 <div align="center">
+
+### Βοηθήστε τους Αναγνώστες να με Βρουν!
+
+**Για να με βρίσκουν πιο εύκολα στη Google, ακολουθήστε αυτά τα βήματα:**
+
+</div>
+
+### 📋 Οδηγίες Google Search Console
+
+**Βήμα 1: Verify τα Sites σας**
+1. Πηγαίνετε στο [Google Search Console](https://search.google.com/search-console)
+2. Κάντε "Add Property" για:
+   - `https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/`
+   - `https://michelis2023.github.io/short-stories/`
+3. Επιλέξτε "HTML tag" method για verification
+4. Προσθέστε το meta tag στο `<head>` των HTML αρχείων σας
+
+**Βήμα 2: Submit Sitemaps**
+1. Δημιουργήστε `sitemap.xml` για κάθε site
+2. Submit στο Search Console: `URL Inspection` → `Request Indexing`
+
+**Βήμα 3: URL Inspection**
+1. Κάντε "Request Indexing" για κάθε σημαντική σελίδα:
+   - Homepage κάθε συλλογής
+   - Τα 5-10 κορυφαία διηγήματα
+
+**Χρήσιμα Keywords για SEO:**
+- Ελληνική λογοτεχνία
+- Γοτθικά διηγήματα ελληνικά
+- Λαϊκή παράδοση Ελλάδα
+- Greek Gothic fiction
+- Παραδοσιακά διηγήματα
+- Edgar Allan Poe ελληνικά
+
+---
+
+<div align="center">
+
+## 🎉 Ξεκινήστε να Διαβάζετε Τώρα!
+
+### 📖 Δωρεάν Online Ανάγνωση
+
+[![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/🌙-Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+[![Διαβάστε Γοτθικά](https://img.shields.io/badge/🕯️-Γοτθικά%20Διηγήματα-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
+
+### 🛒 Αγοράστε το eBook
+
+[![Αγορά στο Lulu](https://img.shields.io/badge/📚-Αγοράστε%20Οι%20Ιστορίες%20που%20Έλεγε%20η%20Γιαγιά-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
+
+### 📰 Διαβάστε στο Pemptousia.gr
+
+[![Pemptousia.gr](https://img.shields.io/badge/📰-Διηγήματα%20στο%20Pemptousia.gr-8B4513?style=for-the-badge)](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)
+
+---
 
 **Καλή ανάγνωση! 📖✨**
 
