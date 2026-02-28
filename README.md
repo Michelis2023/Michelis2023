@@ -4,10 +4,15 @@
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) ![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)
 
-### *Συγγραφέας Διηγημάτων & Νουβελών*
-*Γοτθική Λογοτεχνία • Λαϊκή Παράδοση • Φιλολογική Επιμέλεια*
+### 📚 *Συγγραφέας & Ερευνητής Ελληνικής Λογοτεχνίας*
+### ✍️ *Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια*
+### 🎭 *Διασώζω λαϊκές αφηγήσεις & οικογενειακή μνήμη μέσω του λόγου*
 
 **📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
+
+[![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Published%20Author-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com)
+[![Draft2Digital](https://img.shields.io/badge/📱_Draft2Digital-Available-4A90E2?style=for-the-badge)](https://www.draft2digital.com)
+[![Professional Writer](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
 ---
 
@@ -20,9 +25,17 @@
 
 ---
 
-## 📱 Κοινοποίηση στα Social Media
+## 🌐 Συνδεθείτε Μαζί Μου
 
 <div align="center">
+
+### Κοινωνικά Δίκτυα & Πλατφόρμες
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michelis_77)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michelis_77)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelis2023)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michalakopoulosmichael@gmail.com)
 
 ### Μοιραστείτε τα Έργα μου
 
@@ -32,6 +45,21 @@
 **🌐 Live Sites:**
 - 🌙 Παραδοσιακά: [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia)
 - 🕯️ Γοτθικά: [michelis2023.github.io/short-stories](https://michelis2023.github.io/short-stories)
+
+</div>
+
+---
+
+## ⭐ Πρόσφατα & Δημοφιλή Έργα
+
+<div align="center">
+
+| 🔥 Νέο | Τίτλος | Είδος | Ημερομηνία |
+|--------|--------|-------|------------|
+| ⭐ | [Νυχτερινή Βάρδια στο Σανατόριο του Μαινάλου](https://michelis2023.github.io/short-stories/nukhterine-bardia-sto-sanatorio-tou-mainalou.html) | Γοτθικό | Φεβ 2026 |
+| 🆕 | [Τα Σμυρδάκια](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) | Γοτθικό | Φεβ 2026 |
+| 🆕 | [Η Σκιά Μέσα Στον Καθρέφτη](https://michelis2023.github.io/short-stories/i-skia-mesa-ston-kathrefthi.html) | Γοτθικό | Φεβ 2026 |
+| 📖 | [Η ψυχή του Θοδωράκη στο Ύψωμα 731](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/01.html) | Παραδοσιακό | 2026 |
 
 </div>
 
@@ -135,6 +163,7 @@
 🌍 Ελληνικό Περιεχόμενο│ 100%
 ⚡ Status               │ Ενεργός ✅
 📅 Πρόσφατη Ενημέρωση  │ Φεβρουάριος 2026
+🎬 Πλατφόρμες          │ Lulu • Draft2Digital • GitHub Pages
 ```
 
 ---
@@ -146,6 +175,7 @@
 - 💾 **Ψηφιοποίηση:** Ψηφιακή διαθεσιμότητα πολιτισμικής κληρονομιάς
 - 🌐 **Διάδοση:** Προώθηση ελληνικής γοτθικής λογοτεχνίας διεθνώς
 - ✨ **Ποιότητα:** Δημιουργία σταθμού αναφοράς στη γοτθική λογοτεχνία
+- 🎓 **Εκπαίδευση:** Καθοδήγηση σύγχρονων συγγραφέων στην αυτοέκδοση
 
 ---
 
@@ -168,6 +198,7 @@
 |--------|----------|
 | 📘 **Facebook** | [Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
 | 🎵 **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
+| 🎬 **YouTube** | [@michelis_77](https://www.youtube.com/@michelis_77) |
 
 </div>
 
@@ -200,6 +231,14 @@
 - **Ποιότητα:** Φιλολογική επιμέλεια και προσοχή στη λεπτομέρεια
 - **Διαθεσιμότητα:** Ελεύθερη πρόσβαση μέσω GitHub Pages
 - **Διατήρηση:** Ψηφιοποίηση και διάσωση πολιτισμικής κληρονομιάς
+- **Καινοτομία:** Συνδυασμός παράδοσης με σύγχρονη τεχνολογία
+
+### 📚 Υπηρεσίες που Προσφέρω
+
+- ✍️ **Συγγραφή:** Διηγήματα, νουβέλες, λογοτεχνικά κείμενα
+- 📝 **Φιλολογική Επιμέλεια:** Γλωσσική διόρθωση και βελτιστοποίηση κειμένων
+- 📖 **Καθοδήγηση Αυτοέκδοσης:** Συμβουλευτική για Lulu, Draft2Digital, GitHub Pages
+- 🎯 **Ερευνητική Τεκμηρίωση:** Διάσωση προφορικών παραδόσεων και ιστορικών μαρτυριών
 
 ---
 
@@ -212,5 +251,9 @@
 ---
 
 ⭐ **Αν σας άρεσαν τα έργα μου, κάντε star στα repositories!** ⭐
+
+[![Sponsor](https://img.shields.io/badge/Υποστήριξη-Καφές%20για%20τον%20συγγραφέα-orange?style=for-the-badge)](https://github.com/Michelis2023)
+
+*Κάθε υποστήριξη με βοηθά να συνεχίσω να δημιουργώ και να διασώζω την ελληνική λογοτεχνική παράδοση*
 
 </div>
