@@ -32,15 +32,16 @@
 ### Κοινωνικά Δίκτυα & Πλατφόρμες
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Michelis77)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michelis_77)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michelis_77)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MichelisM)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelis2023)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michalakopoulosmichael@gmail.com)
 
 ### Μοιραστείτε τα Έργα μου
 
 [![Share on Facebook](https://img.shields.io/badge/Facebook-Κοινοποίηση-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
-[![Share on Twitter](https://img.shields.io/badge/Twitter-Tweet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https://michelis2023.github.io/short-stories/&text=Διαβάστε%20γοτθικά%20διηγήματα%20από%20τον%20Μιχαήλ%20Μιχαλακόπουλο)
+[![Share on X](https://img.shields.io/badge/X-Post-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?url=https://michelis2023.github.io/short-stories/&text=Διαβάστε%20γοτθικά%20διηγήματα%20από%20τον%20Μιχαήλ%20Μιχαλακόπουλο)
 
 **🌐 Live Sites:**
 - 🌙 Παραδοσιακά: [michelis2023.github.io/oi-istories-pou-elege-i-giagia](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia)
@@ -197,8 +198,9 @@
 | Δίκτυο | Σύνδεσμος |
 |--------|----------|
 | 📘 **Facebook** | [Michail.Sotiriou.Michalakopoulos](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/) |
+| 🐦 **X (Twitter)** | [@Michelis77](https://x.com/Michelis77) |
 | 🎵 **TikTok** | [@michelis_77](https://www.tiktok.com/@michelis_77) |
-| 🎬 **YouTube** | [@michelis_77](https://www.youtube.com/@michelis_77) |
+| 🎬 **YouTube** | [@MichelisM](https://www.youtube.com/@MichelisM) |
 
 </div>
 
