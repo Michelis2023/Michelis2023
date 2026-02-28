@@ -11,7 +11,6 @@
 **📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
 
 [![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Αγοράστε%20το%20Βιβλίο-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
-[![Draft2Digital](https://img.shields.io/badge/📱_Draft2Digital-Available-4A90E2?style=for-the-badge)](https://www.draft2digital.com)
 [![Professional Writer](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
 ---
@@ -164,7 +163,7 @@
 🌍 Ελληνικό Περιεχόμενο│ 100%
 ⚡ Status               │ Ενεργός ✅
 📅 Πρόσφατη Ενημέρωση  │ Φεβρουάριος 2026
-🎬 Πλατφόρμες          │ Lulu • Draft2Digital • GitHub Pages
+🎬 Πλατφόρμες          │ Lulu • GitHub Pages
 ```
 
 ---
@@ -239,7 +238,7 @@
 
 - ✍️ **Συγγραφή:** Διηγήματα, νουβέλες, λογοτεχνικά κείμενα
 - 📝 **Φιλολογική Επιμέλεια:** Γλωσσική διόρθωση και βελτιστοποίηση κειμένων
-- 📖 **Καθοδήγηση Αυτοέκδοσης:** Συμβουλευτική για Lulu, Draft2Digital, GitHub Pages
+- 📖 **Καθοδήγηση Αυτοέκδοσης:** Συμβουλευτική για Lulu, GitHub Pages
 - 🎯 **Ερευνητική Τεκμηρίωση:** Διάσωση προφορικών παραδόσεων και ιστορικών μαρτυριών
 
 ---
