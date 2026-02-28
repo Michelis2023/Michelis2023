@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction) [![Profile Views](https://komarev.com/ghpvc/?username=Michelis2023&color=8B0000&style=for-the-badge&label=ΕΠΙΣΚΕΨΕΙΣ)](https://github.com/Michelis2023)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023) [![Language](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org) [![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction)
 
 ### 📚 *Συγγραφέας & Ερευνητής Ελληνικής Λογοτεχνίας*
 ### ✍️ *Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια*
