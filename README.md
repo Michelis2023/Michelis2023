@@ -10,7 +10,7 @@
 
 **📚 22 Διηγήματα • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
 
-[![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Published%20Author-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com)
+[![Lulu Publishing](https://img.shields.io/badge/📖_Lulu-Αγοράστε%20το%20Βιβλίο-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 [![Draft2Digital](https://img.shields.io/badge/📱_Draft2Digital-Available-4A90E2?style=for-the-badge)](https://www.draft2digital.com)
 [![Professional Writer](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia)
+[![Διαβάστε Online](https://img.shields.io/badge/📖-Διαβάστε%20Online-darkgreen?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) [![Repository](https://img.shields.io/badge/📂-Repository-8B0000?style=for-the-badge)](https://github.com/Michelis2023/oi-istories-pou-elege-i-giagia) [![Lulu eBook](https://img.shields.io/badge/🛒-Αγοράστε%20στο%20Lulu-FF6C37?style=for-the-badge)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
 
 </div>
 
