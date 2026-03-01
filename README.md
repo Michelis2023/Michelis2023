@@ -63,21 +63,6 @@
 
 ---
 
-## ⭐ Πρόσφατα & Δημοφιλή Έργα
-
-<div align="center">
-
-| 🔥 Νέο | Τίτλος | Είδος | Ημερομηνία |
-|--------|--------|-------|------------|
-| ⭐ | [Νυχτερινή Βάρδια στο Σανατόριο του Μαινάλου](https://michelis2023.github.io/short-stories/nukhterine-bardia-sto-sanatorio-tou-mainalou.html) | Γοτθικό | Φεβ 2026 |
-| 🆕 | [Τα Σμυρδάκια](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) | Γοτθικό | Φεβ 2026 |
-| 🆕 | [Η Σκιά Μέσα Στον Καθρέφτη](https://michelis2023.github.io/short-stories/i-skia-mesa-ston-kathrefthi.html) | Γοτθικό | Φεβ 2026 |
-| 📖 | [Η ψυχή του Θοδωράκη στο Ύψωμα 731](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/01.html) | Παραδοσιακό | 2026 |
-
-</div>
-
----
-
 ## 📖 Οι Συλλογές Μου
 
 ### 🌙 Οι Ιστορίες που Έλεγε η Γιαγιά
