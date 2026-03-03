@@ -72,7 +72,7 @@
 
 **🎯 Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
 
-**📊 Περιεχόμενα:** 15 διηγήματα + 4 επιπλέον σελίδες
+**📊 Περιεχόμενα:** 14 διηγήματα + 4 επιπλέον σελίδες
 
 <details>
 <summary><b>📚 Δείτε Όλα τα Διηγήματα (κλικ για ανάπτυξη)</b></summary>
@@ -87,13 +87,12 @@
 | 06 | [Η ύστατη ανάσα του Θεσπιέα](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/06.html) | Θερμοπύλες |
 | 07 | [Η Λευτεριά της Τριπολιτσάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/07.html) | Επανάσταση 1821 |
 | 08 | [Το δρομολόι του Αϊ-Γιάννη](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) | Λαϊκός θρύλος |
-| 09 | [Ο Χριστός και ο Τεμπέλης](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) | Λαϊκή παραβολή |
-| 10 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Παραβολή |
-| 11 | [Ο παπάς κι' ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
-| 12 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Θρησκευτικό έθιμο |
-| 13 | [Το πρόσφορο της γιαγιάς Φωτεινής και τα θρησκευτικά έθιμα της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
-| 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
-| 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
+| 09 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Παραβολή |
+| 10 | [Ο παπάς κι' ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
+| 11 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Θρησκευτικό έθιμο |
+| 12 | [Το πρόσφορο της γιαγιάς Φωτεινής και τα θρησκευτικά έθιμα της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
+| 13 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
+| 14 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
 
 **Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
 
