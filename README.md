@@ -72,7 +72,7 @@
 
 **🎯 Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
 
-**📊 Περιεχόμενα:** 16 διηγήματα + 4 επιπλέον σελίδες
+**📊 Περιεχόμενα:** 15 διηγήματα + 4 επιπλέον σελίδες
 
 <details>
 <summary><b>📚 Δείτε Όλα τα Διηγήματα (κλικ για ανάπτυξη)</b></summary>
@@ -87,16 +87,15 @@
 | 06 | [Η ύστατη ανάσα του Θεσπιέα](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/06.html) | Θερμοπύλες |
 | 07 | [Η Λευτεριά της Τριπολιτσάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/07.html) | Επανάσταση 1821 |
 | 08 | [Το δρομολόι του Αϊ-Γιάννη](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) | Λαϊκός θρύλος |
-| 09 | [Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) | Πολιτισμική κληρονομιά |
-| 10 | [Ο Χριστός και ο Τεμπέλης](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Λαϊκό παραμύθι |
-| 11 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Παραβολή |
-| 12 | [Ο παπάς κι ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Τουρκοκρατία |
-| 13 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Θρησκευτικό έθιμο |
-| 14 | [Το πρόσφορο της γιαγιάς Φωτεινής](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Οικογενειακή παράδοση |
-| 15 | [Το Δωδεκαήμερο στα ορεινά χωριά](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Χριστούγεννα |
-| 16 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) | Αποκριάτικα έθιμα |
+| 09 | [Ο Χριστός και ο Τεμπέλης](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) | Λαϊκό παραμύθι |
+| 10 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Παραβολή |
+| 11 | [Ο παπάς κι ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
+| 12 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Θρησκευτικό έθιμο |
+| 13 | [Το πρόσφορο της γιαγιάς Φωτεινής](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
+| 14 | [Το Δωδεκαήμερο στα ορεινά χωριά](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
+| 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
 
-**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/20.html)
+**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
 
 </details>
 
@@ -132,7 +131,7 @@
 
 **🎯 Θεματολογία:** Ελληνική ιστορία • Παράδοση • Πολιτισμός • Γορτυνία • Αρκαδία
 
-**📊 Περιεχόμενα:** Ιστορικά δοκίμια και μελέτες
+**📊 Περιεχόμενα:** 2 δοκίμια ιστορίας και πολιτισμού
 
 <details>
 <summary><b>📜 Δείτε Τα Δοκίμια (κλικ για ανάπτυξη)</b></summary>
@@ -140,6 +139,7 @@
 | Τίτλος | Περιγραφή | Θεματική |
 |--------|-----------|----------|
 | 🏛️ [Η Γορτυνία στο πέρασμα των αιώνων](https://michelis2023.github.io/meletemata-istoria-politismos/i-gortunia-sto-perasma-ton-aionon.html) | Από την αρχαιότητα ως σήμερα | Ιστορία - Παράδοση - Ταυτότητα |
+| ⛪ [Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων](https://michelis2023.github.io/meletemata-istoria-politismos/i-gortunia-os-fylakas-thriskeftikon-paradoseon.html) | Η θρησκευτική ζωή και πολιτισμός | Θρησκεία - Μοναστήρια - Παράδοση |
 
 **Επερχόμενα:** Νέα μελετήματα για την ελληνική ιστορία και πολιτισμό
 
@@ -163,7 +163,7 @@
 
 ```text
 📝 Γλώσσα              │ Ελληνικά 🇬🇷
-📚 Δημοσιευμένα Έργα   │ 22 διηγήματα + 1 δοκίμιο
+📚 Δημοσιευμένα Έργα   │ 21 διηγήματα + 2 δοκίμια
 ✍️ Συνολικές Λέξεις    │ 120.000+ λέξεις
 ⚡ Status               │ Ενεργός ✅
 📅 Τελευταία Ενημέρωση │ Μάρτιος 2026
