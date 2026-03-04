@@ -95,7 +95,7 @@
 | 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
 | 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
 
-**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
+**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
 
 </details>
 
