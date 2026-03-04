@@ -37,7 +37,9 @@
 <div align="center">
 
 [![Παραδοσιακές Ιστορίες](https://img.shields.io/badge/Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+
 [![Γοτθικά Διηγήματα](https://img.shields.io/badge/Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github)](https://michelis2023.github.io/short-stories/)
+
 [![Ιστορία & Πολιτισμός](https://img.shields.io/badge/Μελετήματα:_Ιστορία_&_Πολιτισμός-Διαβάστε_Online-1e3a8a?style=for-the-badge&logo=github)](https://michelis2023.github.io/meletemata-istoria-politismos/)
 
 </div>
@@ -51,6 +53,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Michelis77)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michelis_77)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MichelisM)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michelis2023)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michalakopoulosmichael@gmail.com)
@@ -59,6 +62,20 @@
 
 [![Share on Facebook](https://img.shields.io/badge/Facebook-Κοινοποίηση-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 [![Share on X](https://img.shields.io/badge/X-Post-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?url=https://michelis2023.github.io/short-stories/&text=Διαβάστε%20γοτθικά%20διηγήματα%20από%20τον%20Μιχαήλ%20Μιχαλακόπουλο)
+
+</div>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=gruvbox&hide_border=true&locale=el&count_private=true)
+
+**📚 21 Δημοσιευμένα Διηγήματα • 📜 2 Δοκίμια • ✍️ 120.000+ Λέξεις • 🇬🇷 100% Ελληνικά**
+
+**⚡ Ενεργός Συγγραφέας • 📅 Τελευταία Ενημέρωση: Μάρτιος 2026**
 
 </div>
 
@@ -95,7 +112,7 @@
 | 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
 | 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
 
-**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
+**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
 
 </details>
 
@@ -144,18 +161,6 @@
 **Επερχόμενα:** Νέα μελετήματα για την ελληνική ιστορία και πολιτισμό
 
 </details>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-**📚 21 Δημοσιευμένα Διηγήματα • 📜 2 Δοκίμια • ✍️ 120.000+ Λέξεις • 🇬🇷 100% Ελληνικά**
-
-**⚡ Ενεργός Συγγραφέας • 📅 Τελευταία Ενημέρωση: Μάρτιος 2026**
-
-</div>
 
 ---
 
@@ -230,7 +235,9 @@
 ## 🎉 Ξεκινήστε να Διαβάζετε!
 
 [![Διαβάστε Παραδοσιακά](https://img.shields.io/badge/Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε%20Δωρεάν-2ea44f?style=for-the-badge)](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
+
 [![Διαβάστε Γοτθικά](https://img.shields.io/badge/Γοτθικά_Διηγήματα-Διαβάστε%20Δωρεάν-8B0000?style=for-the-badge)](https://michelis2023.github.io/short-stories/)
+
 [![Διαβάστε Δοκίμια](https://img.shields.io/badge/Μελετήματα-Διαβάστε%20Δωρεάν-1e3a8a?style=for-the-badge)](https://michelis2023.github.io/meletemata-istoria-politismos/)
 
 [![Αγορά στο Lulu](https://img.shields.io/badge/📚-Αγοράστε%20το%20eBook-FF6C37?style=for-the-badge&logo=lulu)](https://www.lulu.com/shop/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%BC%CE%B9%CF%87%CE%B1%CE%BB%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82/%CE%BF%CE%B9-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B5%CF%82-%CF%80%CE%BF%CF%85-%CE%B5%CE%BB%CE%B5%CE%B3%CE%B5-%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%B1/ebook/product-e7dm4p2.html)
@@ -245,8 +252,6 @@
 
 ## ©️ Πνευματικά Δικαιώματα
 
-<div align="center">
-
 **© 2024-2026 Μιχαήλ Σωτηρίου Μιχαλακόπουλος**
 
 **🔒 Όλα τα δικαιώματα διατηρούνται - All Rights Reserved**
@@ -257,6 +262,8 @@
 
 📞 **Επικοινωνία για άδειες:** [michalakopoulosmichael@gmail.com](mailto:michalakopoulosmichael@gmail.com)
 
-</div>
+---
+
+<sub>⭐ Αν σας αρέσει το έργο μου, δώστε ένα star στα repositories μου!</sub>
 
 </div>
