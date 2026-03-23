@@ -8,7 +8,7 @@
 ### ✍️ *Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια*
 ### 🎭 *Διασώζω λαϊκές αφηγήσεις & οικογενειακή μνήμη μέσω του λόγου*
 
-**📚 22 Διηγήματα • 📜 2 Δοκίμια • 🌍 120.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
+**📚 23 Διηγήματα • 📜 2 Δοκίμια • 🌍 125.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο**
 
 **🔍 Keywords:** Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe
 
@@ -73,7 +73,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelis2023&show_icons=true&theme=gruvbox&hide_border=true&locale=el&count_private=true)
 
-**📚 22 Δημοσιευμένα Διηγήματα • 📜 2 Δοκίμια • ✍️ 120.000+ Λέξεις • 🇬🇷 100% Ελληνικά**
+**📚 23 Δημοσιευμένα Διηγήματα • 📜 2 Δοκίμια • ✍️ 125.000+ Λέξεις • 🇬🇷 100% Ελληνικά**
 
 **⚡ Ενεργός Συγγραφέας • 📅 Τελευταία Ενημέρωση: Μάρτιος 2026**
 
@@ -89,7 +89,7 @@
 
 **🎯 Θεματολογία:** Οικογενειακές αφηγήσεις • Λαϊκή παράδοση • Ελληνική μνήμη • Γορτυνία
 
-**📊 Περιεχόμενα:** 15 διηγήματα + 4 επιπλέον σελίδες
+**📊 Περιεχόμενα:** 16 διηγήματα + 4 επιπλέον σελίδες
 
 <details>
 <summary><b>📚 Δείτε Όλα τα Διηγήματα (κλικ για ανάπτυξη)</b></summary>
@@ -111,8 +111,9 @@
 | 13 | [Το πρόσφορο της γιαγιάς Φωτεινής και τα θρησκευτικά έθιμα της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
 | 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
 | 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
+| 16 | [Πάσχα στο Σταυροδρόμι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) | Πασχαλινά έθιμα |
 
-**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html)
+**Επιπλέον:** [Επίλογος](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/17.html) • [Γλωσσάρι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/18.html) • [Συγγραφέας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/19.html) • [Ευχαριστίες](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/20.html)
 
 </details>
 
@@ -169,11 +170,11 @@
 
 ```text
 📝 Γλώσσα              │ Ελληνικά 🇬🇷
-📚 Δημοσιευμένα Έργα   │ 22 δι διηγήματα + 2 δοκίμια
-✍️ Συνολικές Λέξεις    │ 120.000+ λέξεις
+📚 Δημοσιευμένα Έργα   │ 23 διηγήματα + 2 δοκίμια
+✍️ Συνολικές Λέξεις    │ 125.000+ λέξεις
 ⚡ Status               │ Ενεργός ✅
 📅 Τελευταία Ενημέρωση │ Μάρτιος 2026
-🎬 Πλατφόρμες          │ GitHub Pages • Lulu • Pemptousia.gr
+🎬 Πλατφόρμες          │ GitHub Pages -  Lulu -  Pemptousia.gr
 ```
 
 ---
