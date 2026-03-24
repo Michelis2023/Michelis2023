@@ -106,7 +106,7 @@
 | 08 | [Το δρομολόι του Αϊ-Γιάννη](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/08.html) | Λαϊκός θρύλος |
 | 09 | [Ο Χριστός και ο Τεμπέλης](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/09.html) | Λαϊκή παραβολή |
 | 10 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Παραβολή |
-| 11 | [Ο παπάς κι' ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
+| 11 | [Ο παπάς κι ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
 | 12 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Θρησκευτικό έθιμο |
 | 13 | [Το πρόσφορο της γιαγιάς Φωτεινής και τα θρησκευτικά έθιμα της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
 | 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
