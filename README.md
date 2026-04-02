@@ -159,7 +159,7 @@
 |--------|-----------|----------|
 | 🏛️ [Η Γορτυνία στο πέρασμα των αιώνων](https://michelis2023.github.io/meletemata-istoria-politismos/i-gortunia-sto-perasma-ton-aionon.html) | Από την αρχαιότητα ως σήμερα | Ιστορία - Παράδοση - Ταυτότητα |
 | ⛪ [Η Γορτυνία ως φύλακας θρησκευτικών παραδόσεων](https://michelis2023.github.io/meletemata-istoria-politismos/i-gortunia-os-fylakas-thriskeftikon-paradoseon.html) | Η θρησκευτική ζωή και πολιτισμός | Θρησκεία - Μοναστήρια - Παράδοση |
-| 🏰 [Η 1η Απριλίου 1955 και ο απελευθερωτικός αγώνας της ΕΟΚΑ](https://michelis2023.github.io/meletemata-istoria-politismos/eoka-prwti-apriliou-1955.html) | Απελευθέρωση - Κύπρος - ΕΟΚΑ - Μνήμη |
+| 🏰 [Η 1η Απριλίου 1955 και ο απελευθερωτικός αγώνας της ΕΟΚΑ](https://michelis2023.github.io/meletemata-istoria-politismos/eoka-prwti-apriliou-1955.html) | Νεότερη Ιστορία - Κυπριακός Αγώνας - ΕΟΚΑ |
 
 **Επερχόμενα:** Νέα μελετήματα για την ελληνική ιστορία και πολιτισμό
 
