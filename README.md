@@ -108,7 +108,7 @@
 | 10 | [Η Ιστορία Του Κυρίου και του Υφαντή](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/10.html) | Παραβολή |
 | 11 | [Ο παπάς κι ο Αγάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/11.html) | Τουρκοκρατία |
 | 12 | [Το Θαύμα του Δεκαπενταύγουστου](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/12.html) | Θρησκευτικό έθιμο |
-| 13 | [Το πρόσφορο της γιαγιάς Φωτεινής](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Οικογενειακή παράδοση |
+| 13 | [Το πρόσφορο της γιαγιάς Φωτεινής](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/13.html) | Θρησκευτική-λαϊκή παράδοση |
 | 14 | [Το Δωδεκαήμερο στα ορεινά χωριά της Γορτυνίας](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/14.html) | Χριστούγεννα |
 | 15 | [Το γουρούνι της Αποκριάς](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/15.html) | Αποκριάτικα έθιμα |
 | 16 | [Πάσχα στο Σταυροδρόμι](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/16.html) | Πασχαλινά έθιμα |
