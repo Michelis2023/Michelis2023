@@ -1,1 +1,55 @@
-# <br> 🌙 Μιχαήλ Σ. Μιχαλακόπουλος<div <br>align<br>="center"<br>>[<br>![<br>License<br>]<br>(<br>https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge<br>)<br>]<br>(<br>https://github.com/Michelis2023<br>)<br> <br>[<br>![<br>Language<br>]<br>(<br>https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge<br>)<br>]<br>(<br>https://el.wikipedia.org<br>)<br> <br>[<br>![<br>Genre<br>]<br>(<br>https://img.shields.io/badge/Genre-Gothic%20Horror%20Fiction-red?style=for-the-badge<br>)<br>]<br>(<br>https://en.wikipedia.org/wiki/Gothic_fiction<br>)<br>###<br> 📚 <br>*<br>Συγγραφέας & Ερευνητής Ελληνικής Λογοτεχνίας<br>*<br>###<br> ✍️ <br>*<br>Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια<br>*<br>###<br> 🎭 <br>*<br>Διασώζω λαϊκές αφηγήσεις & οικογενειακή μνήμη μέσω του λόγου<br>*<br>**<br>📚 23 Διηγήματα • 📜 4 Δοκίμια • 🌍 130.000+ Λέξεις • 🇬🇷 100% Ελληνικό Περιεχόμενο<br>**<br>**<br>🔍 Keywords:<br>**<br> Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe<br>[<br>![<br>Professional Writer<br>]<br>(<br>https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge<br>)<br>]<br>(<br>https://github.com/Michelis2023<br>)</div><br>>---<br>##<br> 📰 Δημοσιεύσεις & Αναγνώριση<div <br>align<br>="center"<br>>**<br>Τα Έργα μου Φιλοξενούνται στο<br>**<br>[<br>![<br>Pemptousia.gr<br>]<br>(<br>https://img.shields.io/badge/📰_Pemptousia.gr-Θρησκευτικό%20Portal-8B4513?style=for-the-badge<br>)<br>]<br>(<br>https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/<br>)<br>*<br>Διηγηματογράφος Λαϊκής Παράδοσης και Θρησκευτικών Εθίμων<br>*</div><br>>---<br>##<br> 🌐 Διαβάστε τα Έργα μου<div <br>align<br>="center"<br>>[<br>![<br>Περί Βίου και Λόγου<br>]<br>(<br>https://img.shields.io/badge/Περί_Βίου_και_Λόγου-Δοκίμια_&_Πραγματείες-8B6914?style=for-the-badge&logo=github<br>)<br>]<br>(<br>https://michelis2023.github.io/peri-viou-kai-logou/<br>)<br>[<br>![<br>Παραδοσιακές Ιστορίες<br>]<br>(<br>https://img.shields.io/badge/Οι_Ιστορίες_που_Έλεγε_η_Γιαγιά-Διαβάστε_Online-2ea44f?style=for-the-badge&logo=github<br>)<br>]<br>(<br>https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/<br>)<br>[<br>![<br>Γοτθικά Διηγήματα<br>]<br>(<br>https://img.shields.io/badge/Γοτθικά_Διηγήματα-Διαβάστε_Online-8B0000?style=for-the-badge&logo=github<br>)<br>]<br>(<br>https://michelis2023.github.io/short-stories/<br>)<br>[<br>![<br>Ιστορία & Πολιτισμός<br>]<br>(<br>https://img.shields.io/badge/Μελετήματα:_Ιστορία_&_Πολιτισμός-Διαβάστε_Online-1e3a8a?style=for-the-badge&logo=github<br>)<br>]<br>(<br>https://michelis2023.github.io/meletemata-istoria-politismos/<br>)</div><br>>---<br>##<br> 📱 Συνδεθείτε Μαζί Μου<div <br>align<br>="center"<br>>[<br>![<br>Facebook<br>]<br>(<br>https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white<br>)<br>]<br>(<br>https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/<br>)<br>[<br>![<br>X (Twitter)<br>]<br>(<br>https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white<br>)<br>]<br>(<br>https://x.com/Michelis77<br>)<br>[<br>![<br>TikTok<br>]<br>(<br>https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white<br>)<br>]<br>(<br>https://www.tiktok.com/@michelis_77<br>)</div>
+# 🌙 Μιχαήλ Σ. Μιχαλακόπουλος
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023)
+[![Γλώσσα](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org)
+[![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction)
+[![Status](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
+
+</div>
+
+### 📚 Συγγραφέας & Ερευνητής Ελληνικής Λογοτεχνίας
+*Διηγήματα • Νουβέλες • Γοτθική Παράδοση • Φιλολογική Επιμέλεια*
+
+🎭 **Διασώζω λαϊκές αφηγήσεις και οικογενειακή μνήμη μέσω του λόγου.**
+
+---
+
+### 📊 Το Έργο μου σε Αριθμούς
+- 📖 **23** Διηγήματα & Νουβέλες
+- 📜 **4** Φιλοσοφικά Δοκίμια
+- 🌍 **130.000+** Λέξεις
+- 🇬🇷 **100%** Ελληνικό Περιεχόμενο
+
+---
+
+### 🌐 Ψηφιακές Εκδόσεις & Ιστότοποι
+| Έργο | Περιγραφή | Σύνδεσμος |
+| :--- | :--- | :--- |
+| **Περί Βίου και Λόγου** | Φιλοσοφικά Δοκίμια & Πραγματείες | [Διαβάστε Online](https://michelis2023.github.io/peri-viou-kai-logou/) |
+| **Οι Ιστορίες της Γιαγιάς** | Παραδοσιακές λαϊκές αφηγήσεις | [Διαβάστε Online](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) |
+| **Γοτθικά Διηγήματα** | Ιστορίες μυστηρίου και γοτθικής ατμόσφαιρας | [Διαβάστε Online](https://michelis2023.github.io/short-stories/) |
+| **Μελετήματα** | Έρευνες για την Ιστορία & τον Πολιτισμό | [Διαβάστε Online](https://michelis2023.github.io/meletemata-istoria-politismos/) |
+
+---
+
+### 📰 Συνεργασίες
+**[Pemptousia.gr](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)**
+*Διηγηματογράφος Λαϊκής Παράδοσης και Θρησκευτικών Εθίμων*
+
+---
+
+### 📱 Επικοινωνία & Κοινωνικά Δίκτυα
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Michelis77)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michelis_77)
+
+</div>
+
+---
+<div align="center">
+  <sub>🔍 Keywords: Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe</sub>
+</div>
