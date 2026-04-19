@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-blue?style=for-the-badge)](https://github.com/Michelis2023)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-crimson?style=for-the-badge)](https://github.com/Michelis2023)
 [![Γλώσσα](https://img.shields.io/badge/Γλώσσα-Ελληνικά-blue?style=for-the-badge)](https://el.wikipedia.org)
-[![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction)
+[![Genre](https://img.shields.io/badge/Genre-Gothic%20Horror%20%7C%20Folk%20Tales-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Gothic_fiction)
 [![Status](https://img.shields.io/badge/Status-Ενεργός%20Συγγραφέας-2ea44f?style=for-the-badge)](https://github.com/Michelis2023)
 
 </div>
@@ -19,22 +19,21 @@
 ---
 
 ### 📊 Το Έργο μου σε Αριθμούς
-- 📖 **23** Διηγήματα & Νουβέλες
-- 📜 **5** Φιλοσοφικά Δοκίμια
-- 🏛️ **4** Ιστορικά Μελετήματα
-- 🌍 **140.000+** Λέξεις
-- 🇬🇷 **100%** Ελληνικό Περιεχόμενο
+
+| 📖 Διηγήματα & Νουβέλες | 📜 Φιλοσοφικά Δοκίμια | 🏛️ Ιστορικά Μελετήματα | 🕯️ Λαϊκές Αφηγήσεις | 🌍 Λέξεις |
+| :---: | :---: | :---: | :---: | :---: |
+| **23** | **5** | **4** | **20** | **150.000+** |
 
 ---
 
 ### 🌐 Ψηφιακές Εκδόσεις & Ιστότοποι
 
-| Έργο | Περιγραφή | Σύνδεσμος |
-| :--- | :--- | :--- |
-| **Περί Βίου και Λόγου** | Φιλοσοφικά Δοκίμια & Πραγματείες | [Διαβάστε Online](https://michelis2023.github.io/peri-viou-kai-logou/) |
-| **Οι Ιστορίες της Γιαγιάς** | Παραδοσιακές λαϊκές αφηγήσεις | [Διαβάστε Online](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) |
-| **Γοτθικά Διηγήματα** | Ιστορίες μυστηρίου και γοτθικής ατμόσφαιρας | [Διαβάστε Online](https://michelis2023.github.io/short-stories/) |
-| **Μελετήματα** | Έρευνες για την Ιστορία & τον Πολιτισμό | [Διαβάστε Online](https://michelis2023.github.io/meletemata-istoria-politismos/) |
+| Έργο | Είδος | Περιγραφή | Σύνδεσμος |
+| :--- | :--- | :--- | :--- |
+| **Περί Βίου και Λόγου** | Φιλοσοφία | Δοκίμια & Πραγματείες για τα υπαρξιακά ζητήματα | [🔗 Διαβάστε Online](https://michelis2023.github.io/peri-viou-kai-logou/) |
+| **Οι Ιστορίες της Γιαγιάς** | Λαϊκή Παράδοση | 20 παραδοσιακές λαϊκές αφηγήσεις της Αρκαδίας | [🔗 Διαβάστε Online](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) |
+| **Γοτθικά Διηγήματα** | Gothic Horror | Ιστορίες μυστηρίου και γοτθικής ατμόσφαιρας | [🔗 Διαβάστε Online](https://michelis2023.github.io/short-stories/) |
+| **Μελετήματα** | Ιστορία & Πολιτισμός | Έρευνες για την Αρκαδία και τον Ελληνισμό | [🔗 Διαβάστε Online](https://michelis2023.github.io/meletemata-istoria-politismos/) |
 
 ---
 
@@ -44,7 +43,31 @@
 
 | Τίτλος | Σύνδεσμος |
 | :--- | :--- |
-| **Περί Σκοπού της Ζωής** *(Νέο)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-skopou-tes-zoes.html) |
+| **Περί Σκοπού της Ζωής** *(Νέο — Απρίλιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-skopou-tes-zoes.html) |
+
+---
+
+### 🕯️ Γοτθικά Διηγήματα — *Ιστορίες Μυστηρίου*
+
+Πρωτότυπα γοτθικά διηγήματα εμπνευσμένα από την ελληνική ύπαιθρο, τη λαϊκή δεισιδαιμονία και τη σκοτεινή πλευρά της ανθρώπινης φύσης.
+
+| Τίτλος | Σύνδεσμος |
+| :--- | :--- |
+| **Η Λέσχη της Κυρίας Β.** | [Διαβάστε](https://michelis2023.github.io/short-stories/I-Leshi-tis-Kyrias-B..html) |
+| **Η Γέφυρα στο Βαθύ Ρέμα** | [Διαβάστε](https://michelis2023.github.io/short-stories/i-gefyra-sto-vathy-rema.html) |
+| **Η Σκιά μέσα στον Καθρέφτη** | [Διαβάστε](https://michelis2023.github.io/short-stories/i-skia-mesa-ston-kathrefthi.html) |
+| **Νυχτερινή Βάρδια στο Σανατόριο του Μαινάλου** | [Διαβάστε](https://michelis2023.github.io/short-stories/nukhterine-bardia-sto-sanatorio-tou-mainalou.html) |
+| **Τα Σμυρδάκια** | [Διαβάστε](https://michelis2023.github.io/short-stories/ta-smyrdakia.html) |
+| **Το Χέρι κάτω από το Χώμα** | [Διαβάστε](https://michelis2023.github.io/short-stories/to-xeri-kato-apo-to-xoma.html) |
+| **Το Ζοφερόν Μυστικόν του Αγίου Ταξιάρχη** | [Διαβάστε](https://michelis2023.github.io/short-stories/to-zopheron-mystikon-tou-agiou-taxiarchi.html) |
+
+---
+
+### 👵 Οι Ιστορίες που Έλεγε η Γιαγιά — *Λαϊκή Παράδοση Αρκαδίας*
+
+Συλλογή 20 λαϊκών αφηγήσεων που διασώζουν την προφορική παράδοση της Αρκαδίας — παραμύθια, θρύλοι και βιώματα που μεταδίδονταν από γενιά σε γενιά.
+
+➡️ [**Διαβάστε ολόκληρη τη συλλογή**](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/)
 
 ---
 
@@ -62,12 +85,14 @@
 ---
 
 ### 📰 Συνεργασίες
+
 **[Pemptousia.gr](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)**
 *Διηγηματογράφος Λαϊκής Παράδοσης και Θρησκευτικών Εθίμων*
 
 ---
 
 ### 📱 Επικοινωνία & Κοινωνικά Δίκτυα
+
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MIchail.Sotiriou.Michalakopoulos/)
@@ -77,6 +102,22 @@
 </div>
 
 ---
+
+### ⚖️ Πνευματικά Δικαιώματα
+
 <div align="center">
-  <sub>🔍 Keywords: Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Ιστορικά Μελετήματα • Φιλοσοφικά Δοκίμια • Αρκαδία • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe</sub>
+
+**© 2023–2026 Μιχαήλ Σ. Μιχαλακόπουλος — Με επιφύλαξη παντός δικαιώματος.**
+
+Όλα τα κείμενα, τα διηγήματα, τα δοκίμια και τα μελετήματα που φιλοξενούνται στους παραπάνω ιστότοπους αποτελούν πνευματική ιδιοκτησία του συγγραφέα.
+Απαγορεύεται αυστηρά η αναπαραγωγή, αναδημοσίευση, μετάφραση ή οποιαδήποτε χρήση του περιεχομένου χωρίς **γραπτή άδεια** του δημιουργού.
+
+*Επιτρέπεται η κοινοποίηση με αναφορά στην πηγή και το όνομα του συγγραφέα.*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🔍 Keywords: Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Ιστορικά Μελετήματα • Φιλοσοφικά Δοκίμια • Αρκαδία • Γορτυνία • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe</sub>
 </div>
