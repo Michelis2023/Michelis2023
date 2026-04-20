@@ -34,6 +34,7 @@
 | **Οι Ιστορίες της Γιαγιάς** | Λαϊκή Παράδοση | 20 παραδοσιακές λαϊκές αφηγήσεις της Αρκαδίας | [🔗 Διαβάστε Online](https://michelis2023.github.io/oi-istories-pou-elege-i-giagia/) |
 | **Γοτθικά Διηγήματα** | Gothic Horror | Ιστορίες μυστηρίου και γοτθικής ατμόσφαιρας | [🔗 Διαβάστε Online](https://michelis2023.github.io/short-stories/) |
 | **Μελετήματα** | Ιστορία & Πολιτισμός | Έρευνες για την Αρκαδία και τον Ελληνισμό | [🔗 Διαβάστε Online](https://michelis2023.github.io/meletemata-istoria-politismos/) |
+| **Σταυροδρόμι – Κοινότητα** | Τοπική Ιστορία & Ρεπορτάζ | Ιστορία, μνήμη, λαογραφία και αυτοδιοίκηση για την Κοινότητα Σταυροδρομίου Γορτυνίας | [🔗 Επισκεφθείτε το Site](https://michelis2023.github.io/stavrodromio/) |
 
 ---
 
@@ -84,6 +85,14 @@
 
 ---
 
+### 🗺️ Σταυροδρόμι — *Κοινότητα, Ιστορία & Σήμερα*
+
+Ανεξάρτητος χώρος καταγραφής, μνήμης και δημόσιου λόγου για την Κοινότητα Σταυροδρομίου Γορτυνίας. Συνδυάζει δημοσιογραφική παρακολούθηση με ιστορική και λαογραφική τεκμηρίωση.
+
+➡️ [**Επισκεφθείτε το site**](https://michelis2023.github.io/stavrodromio/)
+
+---
+
 ### 📰 Συνεργασίες
 
 **[Pemptousia.gr](https://www.pemptousia.gr/author/michail-sotiriou-michalakopoulos-diigimatografos-laikis-paradosis-kai-thriskeftikon-ethimon/)**
@@ -119,5 +128,5 @@
 ---
 
 <div align="center">
-  <sub>🔍 Keywords: Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Ιστορικά Μελετήματα • Φιλοσοφικά Δοκίμια • Αρκαδία • Γορτυνία • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe</sub>
+  <sub>🔍 Keywords: Ελληνική Λογοτεχνία • Γοτθικά Διηγήματα • Λαϊκή Παράδοση • Ιστορικά Μελετήματα • Φιλοσοφικά Δοκίμια • Αρκαδία • Γορτυνία • Σταυροδρόμι • Greek Gothic Fiction • Φολκλόρ • Edgar Allan Poe</sub>
 </div>
