@@ -22,7 +22,7 @@
 
 | 📖 Διηγήματα & Νουβέλες | 📜 Φιλοσοφικά Δοκίμια | 🏛️ Ιστορικά Μελετήματα | 🕯️ Λαϊκές Αφηγήσεις | 🌍 Λέξεις |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | **7** | **4** | **20** | **150.000+** |
+| **23** | **9** | **4** | **20** | **150.000+** |
 
 ---
 
@@ -47,6 +47,8 @@
 | **Περί Σκοπού της Ζωής** *(Απρίλιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-skopou-tes-zoes.html) |
 | **Περί Θανάτου** *(Μάιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-thanatou.html) |
 | **Περί της Αληθινής Φιλίας** *(Μάιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-alethines-philias.html) |
+| **Περί της Ευδαιμονίας του Βίου** *(Μάιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-tes-eudaimonias-tou-biou.html) |
+| **Περί Έγγαμου Βίου** *(Μάιος 2026)* | [Διαβάστε](https://michelis2023.github.io/peri-viou-kai-logou/peri-eggamou-biou.html) |
 
 ---
 
